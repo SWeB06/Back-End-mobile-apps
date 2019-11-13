@@ -1,0 +1,42 @@
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.deps.json
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.json
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.dll
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cache
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cs
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfo.cs
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.pdb
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.dll
+C:\Users\sebas\source\repos\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.pdb
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cache
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cs
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfo.cs
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.dll
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.pdb
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.deps.json
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.json
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.dll
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.pdb
+C:\Users\sebas\Desktop\HoGent\WebApps IV\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorTargetAssemblyInfo.cache
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csproj.CoreCompileInputs.cache
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfoInputs.cache
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.AssemblyInfo.cs
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.dll
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.pdb
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.deps.json
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.json
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.runtimeconfig.dev.json
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.dll
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\bin\Debug\netcoreapp2.2\WebAppsAPI.pdb
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.csprojAssemblyReference.cache
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cache
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorAssemblyInfo.cs
+E:\Angular\Web IV\Back\web4-2018219-backend-pvdh-SebasWoj\WebAppsAPI\WebAppsAPI\obj\Debug\netcoreapp2.2\WebAppsAPI.RazorTargetAssemblyInfo.cache
